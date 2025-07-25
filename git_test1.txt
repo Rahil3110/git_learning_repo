@@ -1,0 +1,18 @@
+GIT
+
+1. git push= store the contents to local machine to remort repository
+2. git clone= to get exact copy of remort repository to local machine
+3. git pull= to get updated changes in remort repository to local machine
+4. git --version= to chaeck the git installed and its version
+5. git config --list= to check already user added or not
+6. git config --global user.name "username"= to add username
+7. git config --global user.email "useremail"= to add useremail
+8. git init= to initialize git in local machine (create local workspace,stage area, local repository) 
+9. git add -A= To add all files in local workspace to staging area
+10.git add filename(full path)= to add a particular file staging area
+11.git commit -m "message "
+12.git remote add varname remote_repository= to add remote repository
+13.git remote -v= to check any remote repository is added and get its name
+14.git push varname master(branch master/mean)= to add file local repository to remote repository
+15.git pull varname master(branch)=to add upadted file in remote repository to local machine
+
